@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="51292" started-at="2022-06-08T09:18:47 IST" finished-at="2022-06-08T09:19:39 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="51292" started-at="2022-06-08T09:18:47 IST" finished-at="2022-06-08T09:19:39 IST">
+      <class name="Demoproject.homeTest">
+        <test-method status="PASS" signature="home_data()[pri:0, instance:Demoproject.homeTest@a7e666]" name="home_data" duration-ms="51165" started-at="2022-06-08T09:18:47 IST" finished-at="2022-06-08T09:19:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- home_data -->
+      </class> <!-- Demoproject.homeTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
